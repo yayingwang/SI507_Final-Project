@@ -38,21 +38,22 @@ The output is gender_wordcounts_dic. Below is one example.
 
 
 ● Brief user guide, including how to run the program and how to choose presentation options.
+
 Please enter "genre " followed by a number below to search interested genre:
-		Options:
-			1. Action
-			2. Comedy
-			3. Drama
-			4. Crime
-			5. Biography
-			6. Horror
-			7. Adventure
-			8. Animation
-			9. Mystery
-			10. Fantasy
-			11. Sci-Fi
-			12. Romance
-			13. Short
-			14. Thriller
-			15. Western
-			16. Film-Noir
+Options:
+1. Action
+2. Comedy
+3. Drama
+4. Crime
+5. Biography
+6. Horror
+7. Adventure
+8. Animation
+9. Mystery
+10. Fantasy
+11. Sci-Fi
+12. Romance
+13. Short
+14. Thriller
+15. Western
+16. Film-Noir
