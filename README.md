@@ -2,11 +2,11 @@
 
 ● Data sources used, including instructions for a user to access the data sources.
 Data sources used:
-The two csv files used are download from https://github.com/matthewfdaniels/scripts/blob/graphs/meta_data7.csv.
-meta_data7.csv contains ImdbId, Title, Year, Gross for 200 movies.
-character_list5.csv contains CharacterName, Wordcounts, Gender and Age for 23048 characters.
+1. The two csv files used are download from https://github.com/matthewfdaniels/scripts/blob/graphs/meta_data7.csv.
+- meta_data7.csv contains ImdbId, Title, Year, Gross for 200 movies.
+- character_list5.csv contains CharacterName, Wordcounts, Gender and Age for 23048 characters.
 
-In addition to the two csv files, I used the ImdbIds to request the following data from OMDB API.
+2. Requested the following data from OMDB API.
 Movie genre
 Country (only select the first one)
 Language (only select the first one)
