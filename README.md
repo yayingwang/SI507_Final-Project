@@ -3,14 +3,10 @@
 ● Data sources used, including instructions for a user to access the data sources.
 Data sources used:
 1. The two csv files used are download from https://github.com/matthewfdaniels/scripts/blob/graphs/meta_data7.csv.
-- meta_data7.csv contains ImdbId, Title, Year, Gross for 200 movies.
+- meta_data7.csv contains ImdbId, Title, Year, Gross for 2000 movies.
 - character_list5.csv contains CharacterName, Wordcounts, Gender and Age for 23048 characters.
 
-2. Requested the following data from OMDB API.
-Movie genre
-Country (only select the first one)
-Language (only select the first one)
-IMDB Ratings
+2. Requested the following data from OMDB API: Movie genre, Country (only select the first one), Language (only select the first one), IMDB Ratings.
 
 ● Any other information needed to run the program (e.g., pointer to getting started info for
 plotly)
