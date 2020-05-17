@@ -1,4 +1,5 @@
-# SI507_Final-Project: Do movie character's wordcounts behave differently based on gender? 
+### SI507_Final-Project: 
+# Do movie character's wordcounts behave differently based on gender? 
 ## Movie characters' wordcounts analysis based on gender, age and movie genres. 
 
 ● Data sources used, including instructions for a user to access the data sources.
